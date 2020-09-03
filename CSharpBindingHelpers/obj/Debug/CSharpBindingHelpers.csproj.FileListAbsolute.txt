@@ -1,6 +1,0 @@
-C:\Projects\C#\libraries\CSharpBindingHelpers\CSharpBindingHelpers\bin\Debug\CSharpBindingHelpers.dll
-C:\Projects\C#\libraries\CSharpBindingHelpers\CSharpBindingHelpers\bin\Debug\CSharpBindingHelpers.pdb
-C:\Projects\C#\libraries\CSharpBindingHelpers\CSharpBindingHelpers\obj\Debug\CSharpBindingHelpers.csprojAssemblyReference.cache
-C:\Projects\C#\libraries\CSharpBindingHelpers\CSharpBindingHelpers\obj\Debug\CSharpBindingHelpers.csproj.CoreCompileInputs.cache
-C:\Projects\C#\libraries\CSharpBindingHelpers\CSharpBindingHelpers\obj\Debug\CSharpBindingHelpers.dll
-C:\Projects\C#\libraries\CSharpBindingHelpers\CSharpBindingHelpers\obj\Debug\CSharpBindingHelpers.pdb
