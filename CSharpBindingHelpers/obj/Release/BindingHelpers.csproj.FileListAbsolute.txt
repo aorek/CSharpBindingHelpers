@@ -1,0 +1,5 @@
+C:\Projects\C#\libraries\BindingHelpers\BindingHelpers\bin\Release\BindingHelpers.dll
+C:\Projects\C#\libraries\BindingHelpers\BindingHelpers\bin\Release\BindingHelpers.pdb
+C:\Projects\C#\libraries\BindingHelpers\BindingHelpers\obj\Release\BindingHelpers.csproj.CoreCompileInputs.cache
+C:\Projects\C#\libraries\BindingHelpers\BindingHelpers\obj\Release\BindingHelpers.dll
+C:\Projects\C#\libraries\BindingHelpers\BindingHelpers\obj\Release\BindingHelpers.pdb
